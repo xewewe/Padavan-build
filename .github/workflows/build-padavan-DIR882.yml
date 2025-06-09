@@ -102,5 +102,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: DIR-882-package
+        name: DIR882-package
         path: /opt/images
